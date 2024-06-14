@@ -2,3 +2,5 @@ nginx
 mariadb:10.8.2
 mysql:5.7.43
 openspug/spug-service
+mongo
+
